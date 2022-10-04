@@ -1,2 +1,6 @@
 title: r3jam
 contentDir: "leetcode"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
