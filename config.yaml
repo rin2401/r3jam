@@ -1,4 +1,2 @@
 title: r3jam
 contentDir: "leetcode"
-permalinks:
-  posts: /:id/:slug/
